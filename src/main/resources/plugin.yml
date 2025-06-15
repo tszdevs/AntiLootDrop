@@ -1,0 +1,6 @@
+name: AntiLootDrop
+version: '1.0-SNAPSHOT'
+main: dev.tsz.antiLootDrop.AntiLootDrop
+description: Removes blocks and items from dropping
+api-version: '1.21'
+author: tsz
